@@ -1,5 +1,5 @@
 {
-    "name": "alttantire/ptt-payment-sdk",
+    "name": "metin71/ptt-payment-sdk",
     "description": "PTT Akıllı Esnaf PHP Payment SDK",
     "type": "library",
     "require": {
