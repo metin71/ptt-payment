@@ -3,6 +3,10 @@
 ## Installation
 This project using composer.
 ```
+$ composer require metin71/ptt-payment-sdk
+```
+
+```
 $ composer require alttantire/ptt-payment-sdk
 ```
 
